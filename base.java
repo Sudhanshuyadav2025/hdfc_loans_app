@@ -5,5 +5,11 @@ but this file can be extended by any other java class.
 class main extends Base {
 string str = Jandel singh;
 System.out.println(str);
+
+// JIRA - 102
+public void m2() {
+**************************
+**************************
+  }
 }
 
